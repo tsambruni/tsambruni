@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <!--
 **tsambruni/tsambruni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+H👨🏼‍🍼ere are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey folks 🤟
+
+- 🔭 I'm currently working on Streamlit applications with cool dataviz
+- 🌱 building my first data science portfolio project
+- 👨🏼‍🍼 ... and I'm getting ready for the birth of my first child, Nico!
+
+<a href="https://app.daily.dev/tsambruni"><img src="https://api.daily.dev/devcards/6eec9af31ad445c0a6c0fa82412f8c8a.png?r=93d" width="200" alt="Thomas Sambruni's Dev Card"/></a>
