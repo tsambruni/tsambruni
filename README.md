@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently building my first data science portfolio project (thanks to Mısra)<br>🌱 I’m currently learning streamlit, a Python framework for building great data apps<br>⚡ Plus: I'm getting ready for the birth of my first child, Nico 👨🏼‍🍼!
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tsambruni) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tsambruni) 
 
 # 💻 Tech Stack:
