@@ -1,7 +1,7 @@
 # Uè! 🤙
 
 See what I'm working on right now:
-- 🔭 Improving my data enginner skills
+- 🔭 Improving my data engineering skills
 - 🌱 Discovering agile frameworks
 - 🍼 Cuddling Nico!
 
