@@ -1,8 +1,8 @@
 # Hey! 🤙
 
 See what I'm working on right now:
-- 🔭 Improving my data engineering skills
-- 🌱 Discovering how AI tools can support daily tasks
+- 💪🏼 Improving my data engineering skills
+- 🧑🏻‍💻 Technical writing @ [tsambruni.dev](tsambruni.dev)
 - 🏋🏼‍♂️ Adding weights on the barbell
 - 👶🏼 Growing Nico!
 
