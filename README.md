@@ -2,7 +2,7 @@
 
 See what I'm working on right now:
 - 💪🏼 Improving my data engineering skills
-- 🧑🏻‍💻 Technical writing @ [tsambruni.dev](tsambruni.dev)
+- 🧑🏻‍💻 Technical writing @ [tsambruni.dev](https://tsambruni.dev)
 - 🏋🏼‍♂️ Adding weights on the barbell
 - 👶🏼 Growing Nico!
 
