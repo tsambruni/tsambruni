@@ -22,7 +22,7 @@ Now, I'm working as data engineer on ☁️ GCP platform.
 ---
 
 - Q: "So, what do you actually do?"
-- A: ""I'm the one who makes the lob pass here..." ⤵️
+- A: ""I'm the one who steals the ball and makes the lob pass here..." ⤵️
 
 <img src="de_assist.gif" alt="Data Engineer serves assist to business users and data scientists" style="width:400px;height:auto;">
 
