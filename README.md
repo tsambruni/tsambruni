@@ -30,9 +30,10 @@ Now, I'm working as data engineer on ☁️ GCP platform.
 - **Second brain:** [tsambruni.dev](https://tsambruni.dev)
 - **LinkedIn:** [tsambruni](https://linkedin.com/in/tsambruni)
 
+<!--
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsambruni&show_icons=true&theme=radical)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsambruni&layout=compact&theme=radical)
-
+-->
