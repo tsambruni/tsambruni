@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey, I'm Thomas Sambruni 👋
 
 <!--
 **tsambruni/tsambruni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,21 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is **Thomas Sambruni**.
-I work with data since 2017.
+- 8 years in the data game
+- Currently on the GCP stack as a Data Engineer
+- Turning raw data into valuable business stuff
 
-Now, I'm working as data engineer on ☁️ GCP platform. 
 
 ---
 
-- Q: "So, what do you actually do?"
-- A: ""I'm the one who steals the ball and makes the lob pass here..." ⤵️
+> **Q**: "So, what do you actually do?"
+> 
+> **A**: ""I'm the one who steals the ball and makes the lob pass here..."
+> 
+> ⤵️
 
 <img src="de_assist.gif" alt="Data Engineer serves assist to business users and data scientists" style="width:400px;height:auto;">
 
-### Find me here:
-- **Second brain:** [tsambruni.dev](https://tsambruni.dev)
-- **LinkedIn:** [tsambruni](https://linkedin.com/in/tsambruni)
+**Find me:**
+- [tsambruni.dev](https://www.tsambruni.dev)
+- [LinkedIn](https://linkedin.com/in/tsambruni)
 
 <!--
 ### GitHub Stats
