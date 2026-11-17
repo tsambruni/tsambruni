@@ -5,7 +5,7 @@
 - Turning raw data into valuable business stuff
 
 **Find me:**
-- [tsambruni.dev](https://www.tsambruni.dev)
+- [X](https://x.com/tsambruni)
 - [LinkedIn](https://linkedin.com/in/tsambruni)
 
 <!--
