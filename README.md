@@ -8,4 +8,8 @@ When I'm not busy with my family, you'll find me at the gym or reading, mostly n
 
 Every now and then I make a beat or two or lose an evening to some retrogaming. And on matchdays, I'm cheering for Como FC.
 
+Above all, I love hip hop. That's where the beats come from.
+
+<img src="assets/equalizer.svg" alt="" width="396"/>
+
 [X](https://x.com/tsambruni) · [LinkedIn](https://linkedin.com/in/tsambruni)
