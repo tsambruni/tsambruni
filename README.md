@@ -8,8 +8,4 @@ When I'm not busy with my family, you'll find me at the gym or reading, mostly n
 
 Every now and then I make a beat or two (I love hip hop) or lose an evening to some retrogaming. And on matchdays, I'm cheering for Como FC.
 
-<a href="https://open.spotify.com/playlist/2w1F45ofCFBEQ954FRxTTr"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8483303d29da4d68f0e4de2e8d" width="120" alt="Better Call Sambru playlist cover"/></a>
-
-🎧 [Better Call Sambru](https://open.spotify.com/playlist/2w1F45ofCFBEQ954FRxTTr), my playlist on Spotify
-
 [X](https://x.com/tsambruni) · [LinkedIn](https://linkedin.com/in/tsambruni)
